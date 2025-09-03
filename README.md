@@ -51,6 +51,28 @@ None.
 
 **RAG - Retrieval-Augmented Generation, NLP - Natural Language Processing, LLMs - Large Language Models, Transformers architecture, Text Preprocessing (spaCy), SentenceTransformers (all-MiniLM-L6-v2), Hugging Face, LLaMA (meta-llama/Llama-3.2-1B-Instruct), FAISS - Facebook AI Similarity Search, PyTorch, Python**
 
+---
+
+### 📸 Project Snapshot
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2024.12.31_GitHub_Retrieval---Augmented-Generation---RAG-Web-Assistant/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_%26_captions/2.0_Thumbnail_1.png?raw=true" 
+       alt="RAG Web Assistant Preview 1" 
+       width="640" 
+       height="360">
+</p>
+
+
+---
+
+### 🎥 Video Demonstration
+
+TBD.
+
+
+---
+
+
 ### 📣 Hashtags Section
 
 **\# #rag #retrievalaugmentedgeneration #nlp #transformers #llm #spacy #huggingface #llama #faiss #pytorch #python #machinelearning #ai #deeplearning #knowledgebase**

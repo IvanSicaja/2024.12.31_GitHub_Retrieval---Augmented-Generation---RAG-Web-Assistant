@@ -1,16 +1,14 @@
 🧾 🎯 **Project Title:** **RETRIEVAL-AUGMENTEDGENERATION - RAG WEB ASSISTANT**  
 📅 **Project Timeline:** August 2024 – January 2025  
 🎥 YouTube Demo: Not available  
-📦 GitHub Source Code: <https://github.com/IvanSicaja/2024.12.31_GitHub_Retrieval---Augmented-Generation---RAG-Web-Assistant>
-
+📦 GitHub Source Code: <https://github.com/IvanSicaja/2024.12.31_GitHub_Retrieval---Augmented-Generation---RAG-Web-Assistant>  
 \----------------------------------------------------------------------------------------------------------------
 
 🏷️ My Personal Profiles: ⬇︎  
 🎥 Video Portfolio: To be added  
 📦 GitHub Profile: <https://github.com/IvanSicaja>  
 🔗 LinkedIn: <https://www.linkedin.com/in/ivan-si%C4%8Daja-832682222>  
-🎥 YouTube: <https://www.youtube.com/@ivan_sicaja>
-
+🎥 YouTube: <https://www.youtube.com/@ivan_sicaja>  
 \----------------------------------------------------------------------------------------------------------------
 
 ### 📚🔍 Project description: ⬇︎⬇︎⬇︎
